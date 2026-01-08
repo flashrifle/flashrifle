@@ -45,8 +45,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashrifle&layout=compact&exclude_repo=my-mini-project,Django_study_start,python_study"><br><br>
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fflashrifle&label=hits&icon=at&color=%23052c65)
 
